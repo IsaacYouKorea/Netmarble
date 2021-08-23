@@ -1,0 +1,35 @@
+/* css */
+.edge {
+  fill: none;
+  stroke: black;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+#graph {
+  width: 80vw;
+  height: 70vh;
+  border: 1px solid black;
+  margin: 30px;
+}
+
+#graph svg {
+  width: 100%;
+  height: 100%;
+}
+
+#table {
+  height: 300px;
+}
+/* 
+text {
+  text-shadow: 
+    -1px -1px 3px white, 
+    -1px 1px 3px white, 
+    1px -1px 3px white,
+    1px 1px 3px white;
+  pointer-events: none;
+} */
